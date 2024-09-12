@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Links tracker",
+    "description": "For the Researchers in academia and sales representatives, this extension will allow you to save url links for reference, eliminating the copy paste hundles, improving  your efficiency by 50%. You can buy me a cup of coffee on antonnykavoi@gmail.com",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
